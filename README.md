@@ -21,4 +21,4 @@ String="https://cdn.discordapp.com/attachments/955195241902788618/98330220974166
 
 アドレス=00007FF7BCF1F50D
 逆アセンブル=lea rdx,qword ptr ds:[7FF7BCF26530]
-String="https://cdn.discordapp.com/attachments/955195241902788618/983301985774231562/clean.exe" (編集済)
+String="https://cdn.discordapp.com/attachments/955195241902788618/983301985774231562/clean.exe"
