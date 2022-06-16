@@ -1,4 +1,4 @@
-# battlegay-driver
+# battlegay server https://discord.gg/EaUxFGWtQ9
 
 ![Desktop Screenshot 2022 06 16 - 09 04 07 41 (2)](https://user-images.githubusercontent.com/107476818/173981436-f0291820-72fa-41ea-8ed1-3982a55289dd.png)
 
